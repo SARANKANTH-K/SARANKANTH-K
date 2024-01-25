@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SARANKANTH</h1>
-<h3 align="center">Ready to contribute my skills,enthusiasm, and fresh perspective to a dynamic organization</h3>
+<h3 align="center">Ready to contribute my skills and fresh perspective to a dynamic organization</h3>
 
 - 👯 I’m looking to collaborate with **Everyone**
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarankanth k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarankanth k" height="30" width="40" /></a>
+<a href="https://instagram.com/saran.k_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saran.k_007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/c_21csr181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="c_21csr181" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarankanth_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarankanth_k" height="30" width="40" /></a>
 </p>
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarankanth-k&show_icons=true&locale=en" alt="sarankanth-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarankanth-k&" alt="sarankanth-k" /></p>
-
