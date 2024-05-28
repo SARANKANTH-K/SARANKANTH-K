@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sarankanthk181@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19R2Auo6erybUQSGcQGKYX9aN_gvR2OMr/view?usp=sharing](https://drive.google.com/file/d/19R2Auo6erybUQSGcQGKYX9aN_gvR2OMr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1at2jU5V5uR4aznuCCnM_i-yL0C7Z6Fz9/view?usp=drive_link](https://drive.google.com/file/d/19R2Auo6erybUQSGcQGKYX9aN_gvR2OMr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
